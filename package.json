@@ -3,7 +3,7 @@
   "version": "1.0.6",
   "private": false,
   "author": "Jelly-ui Team",
-  "main": "./dist/main.js",
+  "main": "dist/main.js",
   "description": "React components that implement Jelly-Ui Design.",
   "keywords": [
     "react",
