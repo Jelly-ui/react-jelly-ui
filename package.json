@@ -39,9 +39,8 @@
     "react-is": "^16.8.0 || ^17.0.0",
     "react-transition-group": "^4.4.0",
     "@types/react-transition-group": "^4.2.0",
-    "clsx": "^1.0.4"
-  },
-  "devDependencies": {
+    "clsx": "^1.0.4",
     "@babel/preset-react": "^7.12.10"
-  }
+  },
+  "devDependencies": {}
 }
